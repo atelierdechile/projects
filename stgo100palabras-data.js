@@ -1,6 +1,6 @@
 var treeData = [
   {
-    "name": "MentesBrillantes",
+    "name": "Santiago en 100 palabras",
     "parent": "null",
     "children": [
       {
@@ -23,7 +23,7 @@ var treeData = [
 },
     
 {
-            "name": "Temporada 2"
+            "name": "Ganadores 2016"
             ,"_children": [
                {  
                 "name":   "Mentes Brillantes 2 - Jorge Allende",
