@@ -6,17 +6,12 @@ var treeData = [
       {
             "name": "Ganadores 2017"
             ,"_children": [
-               {  
-                "name":   "Los Vampiros - Macarena Araya Lira, 31 años, Ñuñoa",
-                 "url": "http://santiagoen100palabras.cl/ganadores/2017/#1"
-              },
-             { "name":    "Mentes Brillantes 1 - Mario Luxoro",
-             "url":   "https://www.youtube.com/v/YEUwSUePz5k"
-             } , 
-            {
-              "name":    "Mentes Brillantes 1 - Ramón Latorre",
-              "url":   "https://www.youtube.com/v/voogNkB14gM"
-              }
+               {"name":   "Los Vampiros - Macarena Araya Lira, 31 años, Ñuñoa",
+                "url": "http://santiagoen100palabras.cl/ganadores/2017/#1"},
+               {"name":    "Alunizaje - Cristian Rolf Foerster Montecino, 28 años, Ñuñoa",
+                "url":   "https://www.youtube.com/v/YEUwSUePz5k"} , 
+               {"name":    "Mentes Brillantes 1 - Ramón Latorre",
+                "url":   "https://www.youtube.com/v/voogNkB14gM"}
  
 ]
  
