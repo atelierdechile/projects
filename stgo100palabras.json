@@ -5,11 +5,9 @@
     "name" : "The Lightning Thief",
     "author" : "Rick Riordan",
     "series_t" : "Percy Jackson and the Olympians",
-    "sequence_i" : 1,
+    "texto" : 1,
     "genre_s" : "fantasy",
-    "inStock" : true,
-    "price" : 12.50,
-    "pages_i" : 384
+    "inStock" : true
   }
 ,
   {
@@ -18,11 +16,9 @@
     "name" : "The Sea of Monsters",
     "author" : "Rick Riordan",
     "series_t" : "Percy Jackson and the Olympians",
-    "sequence_i" : 2,
+    "texto" : 2,
     "genre_s" : "fantasy",
-    "inStock" : true,
-    "price" : 6.49,
-    "pages_i" : 304
+    "inStock" : true
   }
 ,
   {
@@ -30,10 +26,8 @@
     "cat" : ["ganador","texto"],
     "name" : "Lucene in Action, Second Edition",
     "author" : "Michael McCandless",
-    "sequence_i" : 1,
+    "texto" : 1,
     "genre_s" : "IT",
-    "inStock" : true,
-    "price" : 30.50,
-    "pages_i" : 475
+    "inStock" : true
   }
 ]
