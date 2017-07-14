@@ -14,7 +14,7 @@
 ,
   {
     "id" : "2017-2",
-    "cat" : ["book","paperback"],
+    "cat" : ["ganador","texto"],
     "name" : "The Sea of Monsters",
     "author" : "Rick Riordan",
     "series_t" : "Percy Jackson and the Olympians",
@@ -27,7 +27,7 @@
 ,
   {
     "id" : "978-1933988177",
-    "cat" : ["book","paperback"],
+    "cat" : ["ganador","texto"],
     "name" : "Lucene in Action, Second Edition",
     "author" : "Michael McCandless",
     "sequence_i" : 1,
